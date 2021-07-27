@@ -4,7 +4,7 @@ import pandas as pd
 import datetime as dt
 import cufflinks as cf
 
-st.title("Simple Stock Price Apps! ")
+st.title("Your IHSG Stock Monitoring Dashboard! ")
 
 # Sidebar
 st.sidebar.subheader("Your query parameters here")
